@@ -1,63 +1,34 @@
-![I'm NAHID HASAN](https://github.com/developernahid/developernahid/blob/54341871b0aa379366b5500d0d38991f1655ea33/Web%20Designer.png)
+### Hi there 👋, I'm Nahid Hasan
+#### Font-End Web Designer & WordPress  Expert
+![Font-End Web Designer & WordPress  Expert](https://scontent.fdac90-1.fna.fbcdn.net/v/t1.6435-9/240829240_523606945383476_7559491754735778628_n.jpg?_nc_cat=102&_nc_rgb565=1&ccb=1-5&_nc_sid=e3f864&_nc_ohc=wsPLqbvZiGUAX_j5aLM&_nc_ht=scontent.fdac90-1.fna&oh=305e07670a1b7b2969066d29c6b95237&oe=6193F9FD)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: REACT / JS / HTML / CSS/WordPress/Elementor
+
+- 🔭 I’m currently working on W3 Topper IT 
+- 🌱 I’m currently learning Front-End & Back-End 
+- 🤔 I’m looking for help with Become a Full-stack Developer 
+- 💬 Ask me about developersnahid@gmail.com 
+- 📫 How to reach me: Working 
+- 😄 Pronouns: Puchka Developer 
+- ⚡ Fun fact: Mad 
 
 
-<h1 align="center">Hi 👋, I'm Nahid Hasan</h1>
-<h3 align="center">MERN Stack Web Developer and Web Designer of Hablu Programmer</h3>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/developernahid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/developer-nahid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/developer-nahid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nahid_developer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.developernahid.xyz)  
 
-![Profile views](https://gpvc.arturio.dev/harun181) 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer at Hablu Programmer Team. 
-Knock me: m.facebook.com/tutul.qcsc
+[![trophy](https://github-profile-trophy.vercel.app/?username=developernahid)](https://github.com/ryo-ma/github-profile-trophy)
 
-Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developernahid)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on [Hablu Programmer Team](https://habluprogrammer.com/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=developernahid&show_icons=true&count_private=true)  
 
-- 🌱 I’m currently learning **JS, Python, React**
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=developernahid)  
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
+![GitHub metrics](https://metrics.lecoq.io/developernahid)  
 
-- 📝 I regularly write articles on [https://habluprogrammer.com/](https://habluprogrammer.com/)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=developernahid)  
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
-
-- 📫 How to reach me **mdtutul763@gmail.com**
-
-- 📄 All About Me:[https://linktr.ee/tutul181](https://linktr.ee/tutul181)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/tutul.qcsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
-<a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://codepen.io/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hablu programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hablu programmer" height="30" width="40" /></a>
-<a href="https://instagram.com/tutul_181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
-<a href="https://dribbble.com/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://www.behance.net/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="harun181" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-</p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harun181)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=harun181&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=harun181)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harun181)  
+![Profile views](https://gpvc.arturio.dev/developernahid)  
